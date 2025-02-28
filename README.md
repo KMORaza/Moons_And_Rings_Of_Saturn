@@ -25,4 +25,5 @@
 
 ### Gallische Monde (Gallic Moons)
 Gallische Monde sind sieben prograde äußere Monde, die sich in ihrer Entfernung vom Saturn ähneln (Gallic moons are seven prograde outer moons that are quite similar in their distance from Saturn)
+
 ![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/Gallic%20Moons.jpg)
