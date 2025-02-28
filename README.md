@@ -57,7 +57,7 @@ Gallische Monde sind sieben prograde äußere Monde, die sich in ihrer Entfernun
 ### Nordische Monde (Norse Moons)
 Die nordische Mondgruppe ist eine Gruppe großer retrograder Satelliten (mit einer Neigung von > 90°) des Saturn (Norse group of moons is huge group of retrograde satellites (whose inclination is > 90°) of Saturn)
 
-Saturn >> Skathi > Hyrrokkin > Greip > Mundilfari > Gridr > Bergelmir > Jarnsaxa > Narvi > Suttungr > Hati > Eggther > Farbauti > Thrymr > Bestla > Angrboda > Aegir > Beli > Gerd > Gunnlod > Skrymir > Alvaldi > Kari > Geirrod > Fenrir > Surtur > Loge > Ymir > Thiazzi > Fornjot
+🪐 SATURN >> Skathi > Hyrrokkin > Greip > Mundilfari > Gridr > Bergelmir > Jarnsaxa > Narvi > Suttungr > Hati > Eggther > Farbauti > Thrymr > Bestla > Angrboda > Aegir > Beli > Gerd > Gunnlod > Skrymir > Alvaldi > Kari > Geirrod > Fenrir > Surtur > Loge > Ymir > Thiazzi > Fornjot
 
 ![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/Norse%20Moons.jpg)
 
@@ -110,6 +110,17 @@ Saturn hat viele kleinere natürliche Satelliten, die ich als rot gefärbte Kuge
 ![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/D-Ring/091.png)
 
 ### Cassini-Region
+* Cassini-Region (117580–122170 KM vom Saturn entfernt) / Cassini Region (117580–122170 KM from Saturn)
+* Huygens-Lücke (117680 KM vom Saturn entfernt) / Huygens Gap (117680 KM from Saturn)
+* Huygens-Ring (117848 KM vom Saturn entfernt) / Huygens Ringlet (117848 KM from Saturn)
+* Herschel-Lücke (118234 KM vom Saturn entfernt) / Herschel Gap (118234 KM from Saturn)
+* Russell-Lücke (118614 KM vom Saturn entfernt) / Russell Gap (118614 KM from Saturn)
+* Jeffreys-Lücke (118950 KM vom Saturn entfernt) / Jeffreys Gap (118950 KM from Saturn)
+* Kuiper-Lücke (119405 KM vom Saturn entfernt) / Kuiper Gap (119405 KM from Saturn)
+* Laplace-Lücke (119967 KM vom Saturn entfernt) / Laplace Gap (119967 KM from Saturn)
+* Bessel-Lücke (120241 KM vom Saturn entfernt) / Bessel Gap (120241 KM from Saturn)
+* Barnard-Lücke (120312 KM vom Saturn entfernt) / Barnard Gap (120312 KM from Saturn)
+ 
 ![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/Cassini%20Region.jpg)
 
 ### F-Ring
