@@ -93,7 +93,7 @@ Saturn hat viele kleinere natürliche Satelliten, die ich als rot gefärbte Kuge
 ![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/A-Ring/086.png)
 ![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/A-Ring/087.png)
 
-##### Strukturen innerhalb des C-Rings (Stuctures inside C-Ring)
+### Strukturen innerhalb des C-Rings (Stuctures inside C-Ring)
 * C-Ring (74658–92000 KM vom Saturn entfernt) / C-Ring (74658–92000 KM from Saturn)
 * Colombo-Lücke (77870 KM vom Saturn entfernt) / Colombo Gap (77870 KM from Saturn)
 * Titan-Ring (77870 KM vom Saturn entfernt) / Titan Ringlet (77870 KM from Saturn)
@@ -103,7 +103,6 @@ Saturn hat viele kleinere natürliche Satelliten, die ich als rot gefärbte Kuge
 ![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/C-Ring%20Structures.jpg)
 
 ### D-Ring
-
 ![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/A-Ring/088.png)
 ![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/A-Ring/089.png)
 ![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/A-Ring/090.png)
