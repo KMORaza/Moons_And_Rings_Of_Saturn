@@ -66,4 +66,50 @@ Saturn hat viele kleinere natürliche Satelliten, die ich als rot gefärbte Kuge
 
 ![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/Natural%20Satellites.jpg)
 
-#### 
+### Ringe und Regionen (Rings & Regions)
+
+![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/Rings%20%26%20Divisions.jpg)
+
+### A-Ring
+![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/A-Ring/078.png)
+![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/A-Ring/079.png)
+![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/A-Ring/080.png)
+![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/A-Ring/081.png)
+![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/A-Ring/082.png)
+![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/A-Ring/083.png)
+
+### B-Ring
+![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/A-Ring/074.png)
+![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/A-Ring/075.png)
+![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/A-Ring/076.png)
+![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/A-Ring/077.png)
+
+### C-Ring
+![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/A-Ring/084.png)
+![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/A-Ring/085.png)
+![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/A-Ring/086.png)
+![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/A-Ring/087.png)
+
+##### Strukturen innerhalb des C-Rings (Stuctures inside C-Ring)
+* C-Ring (74658–92000 KM vom Saturn entfernt) / C-Ring (74658–92000 KM from Saturn)
+* Colombo-Lücke (77870 KM vom Saturn entfernt) / Colombo Gap (77870 KM from Saturn)
+* Titan-Ring (77870 KM vom Saturn entfernt) / Titan Ringlet (77870 KM from Saturn)
+* Maxwell-Lücke (87491 KM vom Saturn entfernt) / Maxwell Gap (87491 KM from Saturn)
+* Bond-Lücke (88700 KM vom Saturn entfernt) / Bond Gap (88700 KM from Saturn)
+* Dawes-Lücke (90210 KM vom Saturn entfernt) / Dawes Gap (90210 KM from Saturn)
+![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/C-Ring%20Structures.jpg)
+
+### D-Ring
+![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/A-Ring/088.png)
+![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/A-Ring/089.png)
+![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/A-Ring/090.png)
+![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/A-Ring/091.png)
+
+### Cassini-Region
+![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/Cassini%20Region.jpg)
+
+### F-Ring
+![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/F-Ring/092.png)
+![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/F-Ring/093.png)
+![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/F-Ring/094.png)
+![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/F-Ring/095.png)
