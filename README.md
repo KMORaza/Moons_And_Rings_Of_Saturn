@@ -13,7 +13,7 @@
 ![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/Moons%20%26%20Orbits.jpg)
 
 ### Große Monde des Saturn (Major Moons of Saturn)
-**Mimas
-**Mimas
+** Mimas
+** Mimas
 ![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/Major%20Moons.jpg)
 
