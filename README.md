@@ -100,6 +100,7 @@ Saturn hat viele kleinere natürliche Satelliten, die ich als rot gefärbte Kuge
 * Maxwell-Lücke (87491 KM vom Saturn entfernt) / Maxwell Gap (87491 KM from Saturn)
 * Bond-Lücke (88700 KM vom Saturn entfernt) / Bond Gap (88700 KM from Saturn)
 * Dawes-Lücke (90210 KM vom Saturn entfernt) / Dawes Gap (90210 KM from Saturn)
+* 
 ![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/C-Ring%20Structures.jpg)
 
 ### D-Ring
