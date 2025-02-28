@@ -52,6 +52,8 @@ Depictions in the model:
 ### Gallische Monde (Gallic Moons)
 Gallische Monde sind sieben prograde äußere Monde, die sich in ihrer Entfernung vom Saturn ähneln (Gallic moons are seven prograde outer moons that are quite similar in their distance from Saturn)
 
+🪐 SATURN >> Albiorix > Bebhionn > S/2007 S 8 > S/2004 S 29 > Erriapus > Tarvos > S/2020 S 4
+
 ![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/Gallic%20Moons.jpg)
 
 ### Nordische Monde (Norse Moons)
