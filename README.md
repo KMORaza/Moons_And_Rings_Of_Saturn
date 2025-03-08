@@ -43,6 +43,29 @@
 | Bessel-Lücke (120241 KM vom Saturn entfernt) | Bessel Gap (120241 KM from Saturn)                |
 | Barnard-Lücke (120312 KM vom Saturn entfernt) | Barnard Gap (120312 KM from Saturn)|
 
+• Große Monde (Major Moons) —                                  
+|  |  |
+|---------------------------------------------|----------------------------------------------------|
+| Mimas (185539 KM von Saturn entfernt)      | Mimas (185539 KM from Saturn)                      |
+| Enceladus (237948 KM von Saturn entfernt)  | Enceladus (237948 KM from Saturn)                  |
+| Tethys (294619 KM von Saturn entfernt)     | Tethys (294619 KM from Saturn)                     |
+| Dione (377396 KM von Saturn entfernt)      | Dione (377396 KM from Saturn)                      |
+| Rhea (527108 KM von Saturn entfernt)       | Rhea (527108 KM from Saturn)                       |
+| Titan (1221870 KM von Saturn entfernt)    | Titan (1221870 KM from Saturn)                     |
+| Iapetus (3560820 KM von Saturn entfernt)  | Iapetus (3560820 KM from Saturn)                   |
+
+• Gallische Monde (Gallic Moons) — Gallische Monde sind sieben prograde äußere Monde, die sich in ihrer Entfernung vom Saturn ähneln (Gallic moons are seven prograde outer moons that are quite similar in their distance from Saturn)
+| Gallische Monde (Gallic Moons)            | Durchmesser (Diameter) | Zeitraum (Period) |
+|-----------------|---------------|---------------|
+| Albiorix        | 28.6 KM          | 783.49 Tage (Days)      |
+| Bebhionn        | 7 KM           | 834.94 Tage (Days)      |
+| S/2007 S 8      | 4 KM            | 836.90 Tage (Days)     |
+| S/2004 S 29     | 5 KM            | 837.78 Tage (Days)    |
+| Erriapus        | 12 KM           | 871.10 Tage (Days)     |
+| Tarvos          | 16 KM           | 926.37 Tage (Days)     |
+| S/2020 S 4      | 3 KM             | 926.92 Tage (Days)     |
+| S/2006 S 12     | 4 KM             | 1035.05 Tage (Days)    |
+| S/2004 S 24     | 3 KM             | 1341.33 Tage (Days)    |
 
 
 
