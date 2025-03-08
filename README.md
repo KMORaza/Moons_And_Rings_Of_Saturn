@@ -1,7 +1,7 @@
 ## Monde und Ringe des Saturn, modelliert oder simuliert mit OpenSCAD (Moons & Rings of Saturn modelled/simulated using OpenSCAD)
 
 
-Überblick über das Modell oder die Simulation (An Overview of Model/Simulation) —
+• Überblick über das Modell oder die Simulation (An Overview of Model/Simulation) —
 | | |
 |--------------------------------------|--------------------------------|
 |Saturn 🪐 (Radius = 58232 KM)         | Saturn 🪐 (Radius = 58232 KM)|
@@ -20,7 +20,7 @@
 |Bedeutende Familien von Saturnmonden (Große Monde, Gallische Monde, Nordische Monde) | Significant families of moons of Saturn (Major moons, Gallic moons, Norse moons)|
 |Kleinere natürliche Satelliten | Small natural satellites|
 
-Strukturen innerhalb des C-Rings (Structures within the C-Ring) —
+• Strukturen innerhalb des C-Rings (Structures within the C-Ring) —
 |             |                         |
 |---------------------------------------------|-----------------------------------------------------|
 | Colombo Gap (77870 KM von Saturn entfernt) | Colombo Gap (77870 KM from Saturn)                  |
@@ -29,7 +29,7 @@ Strukturen innerhalb des C-Rings (Structures within the C-Ring) —
 | Bond Gap (88700 KM von Saturn entfernt)    | Bond Gap (88700 KM from Saturn)                    |
 | Dawes Gap (90210 KM von Saturn entfernt)   | Dawes Gap (90210 KM from Saturn)                   |
 
-Cassini-Region und ihre Strukturen (Cassini Region and entities within it) —
+• Cassini-Region und ihre Strukturen (Cassini Region and entities within it) —
 | | | 
 |-----------------------------------|--------------------------------------|
 | Cassini-Region (117580–122170 KM vom Saturn entfernt) | Cassini Region (117580–122170 KM from Saturn)|
