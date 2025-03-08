@@ -1,6 +1,8 @@
 ## Monde und Ringe des Saturn, modelliert oder simuliert mit OpenSCAD (Moons & Rings of Saturn modelled/simulated using OpenSCAD)
 
-|Überblick über das Modell oder die Simulation | An Overview of Model/Simulation|
+
+Überblick über das Modell oder die Simulation (An Overview of Model/Simulation) —
+| | |
 |--------------------------------------|--------------------------------|
 |Saturn 🪐 (Radius = 58232 KM)         | Saturn 🪐 (Radius = 58232 KM)|
 |D-Ring (66900–76517 KM vom Saturn entfernt) | D-Ring (66900–76517 KM from Saturn)|
@@ -39,18 +41,6 @@
 | Bessel-Lücke (120241 KM vom Saturn entfernt) | Bessel Gap (120241 KM from Saturn)                |
 | Barnard-Lücke (120312 KM vom Saturn entfernt) | Barnard Gap (120312 KM from Saturn)|
 
-|                                             |                                                    |
-|---------------------------------------------|----------------------------------------------------|
-| Cassini-Region (117.580 – 122.170 km vom Saturn entfernt) | Cassini Region (117580 – 122170 KM from Saturn)   |
-| Huygens-Lücke (117.680 km vom Saturn entfernt) | Huygens Gap (117680 KM from Saturn)               |
-| Huygens-Ringel (117.848 km vom Saturn entfernt) | Huygens Ringlet (117848 KM from Saturn)           |
-| Herschel-Lücke (118.234 km vom Saturn entfernt) | Herschel Gap (118234 KM from Saturn)              |
-| Russell-Lücke (118.614 km vom Saturn entfernt) | Russell Gap (118614 KM from Saturn)               |
-| Jeffreys-Lücke (118.950 km vom Saturn entfernt) | Jeffreys Gap (118950 KM from Saturn)              |
-| Kuiper-Lücke (119.405 km vom Saturn entfernt)  | Kuiper Gap (119405 KM from Saturn)                |
-| Laplace-Lücke (119.967 km vom Saturn entfernt) | Laplace Gap (119967 KM from Saturn)               |
-| Bessel-Lücke (120.241 km vom Saturn entfernt) | Bessel Gap (120241 KM from Saturn)                |
-| Barnard-Lücke (120.312 km vom Saturn entfernt) | Barnard Gap (120312 KM from Saturn)               |
 
 
 
