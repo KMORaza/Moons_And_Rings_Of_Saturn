@@ -15,8 +15,7 @@
 |Methone-Ringbogen (194230 KM vom Saturn entfernt) | Methone Ring Arc (194230 KM from Saturn)|
 |Anthe Ringbogen (197665 KM vom Saturn entfernt) | Anthe Ring Arc (197665 KM from Saturn)|
 |Pallene-Ring (211000–213500 KM vom Saturn entfernt) | Pallene Ring (211000–213500 KM from Saturn)|
-|Bedeutende Familien von Saturnmonden (Große Monde, Gallische Monde, Nordische Monde) | 
-Significant families of moons of Saturn (Major moons, Gallic moons, Norse moons)|
+|Bedeutende Familien von Saturnmonden (Große Monde, Gallische Monde, Nordische Monde) | Significant families of moons of Saturn (Major moons, Gallic moons, Norse moons)|
 
 
 ### Modell des Saturn 🪐 (Model of Saturn 🪐)
