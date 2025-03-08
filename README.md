@@ -136,7 +136,9 @@ Depictions in the model:
 ### Gallische Monde (Gallic Moons)
 Gallische Monde sind sieben prograde äußere Monde, die sich in ihrer Entfernung vom Saturn ähneln (Gallic moons are seven prograde outer moons that are quite similar in their distance from Saturn)
 
-```🪐 SATURN >> Albiorix > Bebhionn > S/2007 S 8 > S/2004 S 29 > Erriapus > Tarvos > S/2020 S 4```
+```
+🪐 SATURN >> Albiorix > Bebhionn > S/2007 S 8 > S/2004 S 29 > Erriapus > Tarvos > S/2020 S 4
+```
 
 ![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Merged%20Screenshots/Gallic%20Moons.png)
 
@@ -145,7 +147,9 @@ Gallische Monde sind sieben prograde äußere Monde, die sich in ihrer Entfernun
 ### Nordische Monde (Norse Moons)
 Die nordische Mondgruppe ist eine Gruppe großer retrograder Satelliten (mit einer Neigung von > 90°) des Saturn (Norse group of moons is huge group of retrograde satellites (whose inclination is > 90°) of Saturn)
 
-```🪐 SATURN >> Skathi > Hyrrokkin > Greip > Mundilfari > Gridr > Bergelmir > Jarnsaxa > Narvi > Suttungr > Hati > Eggther > Farbauti > Thrymr > Bestla > Angrboda > Aegir > Beli > Gerd > Gunnlod > Skrymir > Alvaldi > Kari > Geirrod > Fenrir > Surtur > Loge > Ymir > Thiazzi > Fornjot```
+```
+🪐 SATURN >> Skathi > Hyrrokkin > Greip > Mundilfari > Gridr > Bergelmir > Jarnsaxa > Narvi > Suttungr > Hati > Eggther > Farbauti > Thrymr > Bestla > Angrboda > Aegir > Beli > Gerd > Gunnlod > Skrymir > Alvaldi > Kari > Geirrod > Fenrir > Surtur > Loge > Ymir > Thiazzi > Fornjot
+```
 
 ![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Merged%20Screenshots/Norse%20Moons.jpg)
 
@@ -153,6 +157,68 @@ Die nordische Mondgruppe ist eine Gruppe großer retrograder Satelliten (mit ein
 
 ### Natürliche Satelliten (Natural Satellites)
 Saturn hat viele kleinere natürliche Satelliten, die ich als rot gefärbte Kugel mit zwei zueinander senkrechten weißen Streifen dargestellt habe (Saturn has lot of small natural satellites whom I have modelled as red colored sphere with two mutually perpendicular white stripes)
+
+```
+//------------------------ Smaller satellites ------------------------//
+
+color([220/255,20/255,60/255]) {  // model of satellite
+
+    rotate([100, 70, 0]) {
+
+        translate([167, 0, 0]) {  
+
+            sphere(r=3, $fn=100); 
+
+        }
+
+    }
+
+}
+
+color([1, 1, 1]) {  // first strip
+
+    rotate([100, 70, 0]) { 
+
+        translate([167, 0, 0]) {  
+
+            cylinder(h=0.2, r1=3.5, r2=3.5, $fn=100); 
+
+        }
+
+    }
+
+}
+
+color([1, 1, 1]) {  // second strip
+
+    rotate([100, 70, 0]) { 
+
+        translate([167, 0, 0]) {  
+
+            rotate([90, 0, 0]) {  
+
+                cylinder(h=0.2, r1=3.5, r2=3.5, $fn=100); 
+
+            }
+
+        }
+
+    }
+
+}
+
+color([1, 1, 1, 0.1]) {  // orbit of satellite
+
+    rotate([100, 70, 0]) { 
+
+        cylinder(h=0.1, r1=167, r2=167, $fn=100); 
+
+    }
+
+}
+
+//------------------------------------------------------------------//
+```
 
 ![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Merged%20Screenshots/Natural%20Satellites.png)
 
