@@ -20,7 +20,8 @@
 |Bedeutende Familien von Saturnmonden (Große Monde, Gallische Monde, Nordische Monde) | Significant families of moons of Saturn (Major moons, Gallic moons, Norse moons)|
 |Kleinere natürliche Satelliten | Small natural satellites|
 
-| Strukturen innerhalb des C-Rings            | Structures within the C-Ring                        |
+Strukturen innerhalb des C-Rings (Structures within the C-Ring) —
+|             |                         |
 |---------------------------------------------|-----------------------------------------------------|
 | Colombo Gap (77870 KM von Saturn entfernt) | Colombo Gap (77870 KM from Saturn)                  |
 | Titan Ringlet (77870 KM von Saturn entfernt) | Titan Ringlet (77870 KM from Saturn)               |
@@ -28,7 +29,8 @@
 | Bond Gap (88700 KM von Saturn entfernt)    | Bond Gap (88700 KM from Saturn)                    |
 | Dawes Gap (90210 KM von Saturn entfernt)   | Dawes Gap (90210 KM from Saturn)                   |
 
-|Cassini-Region und ihre Strukturen | Cassini Region and entities within it|
+Cassini-Region und ihre Strukturen (Cassini Region and entities within it) —
+| | | 
 |-----------------------------------|--------------------------------------|
 | Cassini-Region (117580–122170 KM vom Saturn entfernt) | Cassini Region (117580–122170 KM from Saturn)|
 | Huygens-Lücke (117680 KM vom Saturn entfernt) | Huygens Gap (117680 KM from Saturn)               |
