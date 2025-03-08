@@ -1,11 +1,22 @@
 ## Monde und Ringe des Saturn, modelliert oder simuliert mit OpenSCAD (Moons & Rings of Saturn modelled/simulated using OpenSCAD)
 
-
+|Überblick über das Modell oder die Simulation | An overview of Model/Simulation|
 |--------------------------------------|--------------------------------|
 |Saturn 🪐 (Radius = 58232 KM)         | Saturn 🪐 (Radius = 58232 KM)|
 |D-Ring (66900–76517 KM vom Saturn entfernt) | D-Ring (66900–76517 KM from Saturn)|
 |C-Ring (74658–92000 KM vom Saturn entfernt) | C-Ring (74658–92000 KM from Saturn)|
 |B-Ring (92000–117580 KM vom Saturn entfernt) | B-Ring (92000-117580 KM from Saturn)|
+|Cassini-Region (117580–122170 KM vom Saturn entfernt) | Cassini Region (117580–122170 KM from Saturn)|
+|A-Ring (122170–136775 KM vom Saturn entfernt) | A-Ring (122170–136775 KM from Saturn)|
+|Roche-Region (136775–139380 KM vom Saturn entfernt) | Roche Region (136775–139380 KM from Saturn)|
+|F-Ring (140180 KM vom Saturn entfernt) | F-Ring (140180 KM from Saturn)|
+|Janus-Epimetheus-Ring (149000–154000 KM vom Saturn entfernt) | Janus/Epimetheus Ring (149000–154000 KM from Saturn)|
+|G-Ring (166000–175000 KM vom Saturn entfernt) | G-Ring (166000–175000 KM from Saturn)|
+|Methone-Ringbogen (194230 KM vom Saturn entfernt) | Methone Ring Arc (194230 KM from Saturn)|
+|Anthe Ringbogen (197665 KM vom Saturn entfernt) | Anthe Ring Arc (197665 KM from Saturn)|
+|Pallene-Ring (211000–213500 KM vom Saturn entfernt) | Pallene Ring (211000–213500 KM from Saturn)|
+|Bedeutende Familien von Saturnmonden (Große Monde, Gallische Monde, Nordische Monde) | 
+Significant families of moons of Saturn (Major moons, Gallic moons, Norse moons)|
 
 
 ### Modell des Saturn 🪐 (Model of Saturn 🪐)
