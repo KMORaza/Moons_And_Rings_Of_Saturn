@@ -23,11 +23,11 @@
 • Strukturen innerhalb des C-Rings (Structures within the C-Ring) —
 |             |                         |
 |---------------------------------------------|-----------------------------------------------------|
-| Colombo Gap (77870 KM von Saturn entfernt) | Colombo Gap (77870 KM from Saturn)                  |
-| Titan Ringlet (77870 KM von Saturn entfernt) | Titan Ringlet (77870 KM from Saturn)               |
-| Maxwell Gap (87491 KM von Saturn entfernt) | Maxwell Gap (87491 KM from Saturn)                 |
-| Bond Gap (88700 KM von Saturn entfernt)    | Bond Gap (88700 KM from Saturn)                    |
-| Dawes Gap (90210 KM von Saturn entfernt)   | Dawes Gap (90210 KM from Saturn)                   |
+| Colombo-Lücke (77870 KM vom Saturn entfernt) | Colombo Gap (77870 KM from Saturn)                  |
+| Titan-Ring (77870 KM vom Saturn entfernt)  | Titan Ringlet (77870 KM from Saturn)               |
+| Maxwell-Lücke (87491 KM vom Saturn entfernt)  | Maxwell Gap (87491 KM from Saturn)                 |
+| Bond-Lücke (88700 KM vom Saturn entfernt)    | Bond Gap (88700 KM from Saturn)                    |
+| Dawes-Lücke (90210 KM vom Saturn entfernt)   | Dawes Gap (90210 KM from Saturn)                   |
 
 • Cassini-Region und ihre Strukturen (Cassini Region and entities within it) —
 | | | 
@@ -67,7 +67,9 @@
 | S/2006 S 12     | 4 KM             | 1035.05 Tage (Days)    |
 | S/2004 S 24     | 3 KM             | 1341.33 Tage (Days)    |
 
-• Nordische Monde (Norse Moons) — Die nordische Mondgruppe ist eine große Gruppe retrograder Satelliten mit einer Neigung von > 90° zum Saturn. (Norse group of moons is huge group of retrograde satellites whose inclination is > 90° of Saturn)
+• Nordische Monde (Norse Moons) — Die nordische Mondgruppe ist eine große Gruppe retrograder Satelliten mit einer Neigung von > 90° zum Saturn. (Norse group of moons is huge group of retrograde satellites whose inclination is > 90° of Saturn.)
+
+• Natürliche Satelliten (Natural Satellites) —  Saturn hat viele kleinere natürliche Satelliten und kleine Monde. Ich habe diese durch eine rot gefärbte Kugel mit zwei senkrecht zueinander stehenden weißen Streifen dargestellt. (Saturn has lot of natural satellites and moonlets. I depicted these through red colored sphere with two mutually perpendicular white colored stripes.) 
 
 ### Modell des Saturn 🪐 (Model of Saturn 🪐)
 ![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/Saturn.png)
