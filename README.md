@@ -3,7 +3,9 @@
 
 |--------------------------------------|--------------------------------|
 |Saturn 🪐 (Radius = 58232 KM)         | Saturn 🪐 (Radius = 58232 KM)|
-|D-Ring (66.900 – 76.517 km vom Saturn entfernt) | D-Ring (66900 –76517 KM from Saturn)|
+|D-Ring (66900–76517 KM vom Saturn entfernt) | D-Ring (66900–76517 KM from Saturn)|
+|C-Ring (74658–92000 KM vom Saturn entfernt) | C-Ring (74658–92000 KM from Saturn)|
+|B-Ring (92000–117580 KM vom Saturn entfernt) | B-Ring (92000-117580 KM from Saturn)|
 
 
 ### Modell des Saturn 🪐 (Model of Saturn 🪐)
