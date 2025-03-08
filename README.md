@@ -3,7 +3,7 @@
 Übersicht über Modell oder Simulation (An overview of model/simulation) —
 
 ------------------------------------------------------------
-Saturn 🪐 (Radius = 58232 KM) | Saturn 🪐 (Radius = 58232 KM) 
+Saturn 🪐 (Radius = 58232 KM)                   | Saturn 🪐 (Radius = 58232 KM) 
 D-Ring (66.900 – 76.517 km vom Saturn entfernt) | D-Ring (66900 –76517 KM from Saturn)
 ### Modell des Saturn 🪐 (Model of Saturn 🪐)
 ![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/Saturn.png)
