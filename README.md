@@ -1,10 +1,10 @@
 ## Monde und Ringe des Saturn, modelliert oder simuliert mit OpenSCAD (Moons & Rings of Saturn modelled/simulated using OpenSCAD)
 
------------------------------------------------------------------------
-Übersicht über Modell oder Simulation | An overview of model/simulation
------------------------------------------------------------------------
-Saturn 🪐 (Radius = 58232 KM)         | Saturn 🪐 (Radius = 58232 KM) 
-D-Ring (66.900 – 76.517 km vom Saturn entfernt) | D-Ring (66900 –76517 KM from Saturn)
+|-----------------------------------------------------------------------|
+|Übersicht über Modell oder Simulation | An overview of model/simulation|
+|-----------------------------------------------------------------------|
+|Saturn 🪐 (Radius = 58232 KM)         | Saturn 🪐 (Radius = 58232 KM)|
+|D-Ring (66.900 – 76.517 km vom Saturn entfernt) | D-Ring (66900 –76517 KM from Saturn)|
 
 
 ### Modell des Saturn 🪐 (Model of Saturn 🪐)
