@@ -1,6 +1,6 @@
 ## Monde und Ringe des Saturn, modelliert oder simuliert mit OpenSCAD (Moons & Rings of Saturn modelled/simulated using OpenSCAD)
 
-|Überblick über das Modell oder die Simulation | An overview of Model/Simulation|
+|Überblick über das Modell oder die Simulation | An Overview of Model/Simulation|
 |--------------------------------------|--------------------------------|
 |Saturn 🪐 (Radius = 58232 KM)         | Saturn 🪐 (Radius = 58232 KM)|
 |D-Ring (66900–76517 KM vom Saturn entfernt) | D-Ring (66900–76517 KM from Saturn)|
@@ -16,6 +16,28 @@
 |Anthe Ringbogen (197665 KM vom Saturn entfernt) | Anthe Ring Arc (197665 KM from Saturn)|
 |Pallene-Ring (211000–213500 KM vom Saturn entfernt) | Pallene Ring (211000–213500 KM from Saturn)|
 |Bedeutende Familien von Saturnmonden (Große Monde, Gallische Monde, Nordische Monde) | Significant families of moons of Saturn (Major moons, Gallic moons, Norse moons)|
+|Kleinere natürliche Satelliten | Small natural satellites|
+
+| Strukturen innerhalb des C-Rings            | Structures within the C-Ring                        |
+|---------------------------------------------|-----------------------------------------------------|
+| Colombo Gap (77870 KM von Saturn entfernt) | Colombo Gap (77870 KM from Saturn)                  |
+| Titan Ringlet (77870 KM von Saturn entfernt) | Titan Ringlet (77870 KM from Saturn)               |
+| Maxwell Gap (87491 KM von Saturn entfernt) | Maxwell Gap (87491 KM from Saturn)                 |
+| Bond Gap (88700 KM von Saturn entfernt)    | Bond Gap (88700 KM from Saturn)                    |
+| Dawes Gap (90210 KM von Saturn entfernt)   | Dawes Gap (90210 KM from Saturn)                   |
+
+|Cassini-Region und ihre Strukturen | Cassini Region and entities within it|
+|-----------------------------------|--------------------------------------|
+| Cassini-Region (117580–122170 KM vom Saturn entfernt) | Cassini Region (117580–122170 KM from Saturn)|
+| Huygens-Lücke (117.680 km vom Saturn entfernt) | Huygens Gap (117680 KM from Saturn)               |
+| Huygens-Ringel (117.848 km vom Saturn entfernt) | Huygens Ringlet (117848 KM from Saturn)           |
+| Herschel-Lücke (118.234 km vom Saturn entfernt) | Herschel Gap (118234 KM from Saturn)              |
+| Russell-Lücke (118.614 km vom Saturn entfernt) | Russell Gap (118614 KM from Saturn)               |
+| Jeffreys-Lücke (118.950 km vom Saturn entfernt) | Jeffreys Gap (118950 KM from Saturn)              |
+| Kuiper-Lücke (119.405 km vom Saturn entfernt)  | Kuiper Gap (119405 KM from Saturn)                |
+| Laplace-Lücke (119.967 km vom Saturn entfernt) | Laplace Gap (119967 KM from Saturn)               |
+| Bessel-Lücke (120.241 km vom Saturn entfernt) | Bessel Gap (120241 KM from Saturn)                |
+| Barnard-Lücke (120.312 km vom Saturn entfernt) | Barnard Gap (120312 KM from Saturn)
 
 
 ### Modell des Saturn 🪐 (Model of Saturn 🪐)
