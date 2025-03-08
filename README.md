@@ -67,7 +67,7 @@
 | S/2006 S 12     | 4 KM             | 1035.05 Tage (Days)    |
 | S/2004 S 24     | 3 KM             | 1341.33 Tage (Days)    |
 
-
+• Nordische Monde (Norse Moons) — Die nordische Mondgruppe ist eine große Gruppe retrograder Satelliten mit einer Neigung von > 90° zum Saturn. (Norse group of moons is huge group of retrograde satellites whose inclination is > 90° of Saturn)
 
 ### Modell des Saturn 🪐 (Model of Saturn 🪐)
 ![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/Saturn.png)
