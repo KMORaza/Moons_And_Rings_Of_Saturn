@@ -69,6 +69,39 @@
 
 • Nordische Monde (Norse Moons) — Die nordische Mondgruppe ist eine große Gruppe retrograder Satelliten mit einer Neigung von > 90° zum Saturn. (Norse group of moons is huge group of retrograde satellites whose inclination is > 90° of Saturn.)
 
+|                 | Durchmesser in KM (Diameter in KM) | Zeitraum in Tagen (Period in Days) |
+|--------------------|---------------|---------------|
+| Phoebe             | 213           | –550.30       |
+| Skathi             | 9             | –728.10       |
+| Skoll              | 6             | –878.44       |
+| Hyrrokkin          | 9             | –931.89       |
+| Greip              | 6             | –936.98       |
+| Mundilfari         | 8             | –952.95       |
+| Gridr              | 5             | –1004.75      |
+| Bergelmir          | 6             | –1005.58      |
+| Jarnsaxa           | 5             | –1006.92      |
+| Narvi              | 8             | –1003.84      |
+| Suttungr           | 8             | –1016.71      |
+| Farbauti           | 5             | –1087.29      |
+| Thrymr             | 9             | –1091.84      |
+| Bestla             | 8             | –1087.46      |
+| Angrboda           | 4             | –1114.05      |
+| Aegir              | 5             | –1119.33      |
+| Beli               | 4             | –1121.76      |
+| Gerd               | 4             | –1142.97      |
+| Gunnlod            | 5             | –1157.98      |
+| Skrymir            | 5             | –1185.15      |
+| Alvaldi            | 5             | –1232.19      |
+| Kari               | 8             | –1231.01      |
+| Geirrod            | 4             | –1251.14      |
+| Fenrir             | 4             | –1260.25      |
+| Surtur             | 5             | –1296.49      |
+| Loge               | 6             | –1311.83      |
+| Ymir               | 22            | –1315.16      |
+| Thiazzi            | 4             | –1366.68      |
+| Fornjot            | 6             | –1494.03      |
+
+
 • Natürliche Satelliten (Natural Satellites) —  Saturn hat viele kleinere natürliche Satelliten und kleine Monde. Ich habe diese durch eine rot gefärbte Kugel mit zwei senkrecht zueinander stehenden weißen Streifen dargestellt. (Saturn has lot of natural satellites and moonlets. I depicted these through red colored sphere with two mutually perpendicular white colored stripes.) 
 
 ### Modell des Saturn 🪐 (Model of Saturn 🪐)
