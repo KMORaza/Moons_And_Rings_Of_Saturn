@@ -20,7 +20,7 @@
 |Bedeutende Familien von Saturnmonden (Große Monde, Gallische Monde, Nordische Monde) | Significant families of moons of Saturn (Major moons, Gallic moons, Norse moons)|
 |Kleinere natürliche Satelliten | Small natural satellites|
 
-• Strukturen innerhalb des C-Rings (Structures within the C-Ring) —
+• Strukturen innerhalb des C-Rings (Entities within the C-Ring) —
 |             |                         |
 |---------------------------------------------|-----------------------------------------------------|
 | Colombo-Lücke (77870 KM vom Saturn entfernt) | Colombo Gap (77870 KM from Saturn)                  |
@@ -121,13 +121,15 @@ Depictions in the model:
 ![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/Moons%20%26%20Orbits.jpg)
 
 ### Große Monde (Major Moons)
- * Mimas 
- * Enceladus 
- * Tethys 
- * Dione 
- * Rhea 
- * Titan 
- * Iapetus 
+|  |  |
+|---------------------------------------------|----------------------------------------------------|
+| Mimas (185539 KM von Saturn entfernt)      | Mimas (185539 KM from Saturn)                      |
+| Enceladus (237948 KM von Saturn entfernt)  | Enceladus (237948 KM from Saturn)                  |
+| Tethys (294619 KM von Saturn entfernt)     | Tethys (294619 KM from Saturn)                     |
+| Dione (377396 KM von Saturn entfernt)      | Dione (377396 KM from Saturn)                      |
+| Rhea (527108 KM von Saturn entfernt)       | Rhea (527108 KM from Saturn)                       |
+| Titan (1221870 KM von Saturn entfernt)    | Titan (1221870 KM from Saturn)                     |
+| Iapetus (3560820 KM von Saturn entfernt)  | Iapetus (3560820 KM from Saturn)
 
 ![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Merged%20Screenshots/Major%20Moons.png)
 
@@ -228,7 +230,7 @@ color([1, 1, 1, 0.1]) {  // orbit of satellite
 ![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/C-Ring/086.png)
 ![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/C-Ring/087.png)
 
-#### Strukturen innerhalb des C-Rings (Stuctures inside C-Ring)
+#### Strukturen innerhalb des C-Rings (Entities within C-Ring)
 * C-Ring (74658–92000 KM vom Saturn entfernt) / C-Ring (74658–92000 KM from Saturn)
 * Colombo-Lücke (77870 KM vom Saturn entfernt) / Colombo Gap (77870 KM from Saturn)
 * Titan-Ring (77870 KM vom Saturn entfernt) / Titan Ringlet (77870 KM from Saturn)
