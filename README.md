@@ -297,7 +297,7 @@ color([1, 1, 1, 0.1]) {  // orbit of satellite
 
 #### Strukturen innerhalb des C-Rings (Entities within C-Ring)
 
-| Struktur innerhalb des C-Rings                  | Entities within C-Ring                          |
+| Strukturen innerhalb des C-Rings                  | Entities within C-Ring                          |
 |-------------------------------------------------|------------------------------------------------|
 | C-Ring (74658–92000 KM vom Saturn entfernt)     | C-Ring (74658–92000 KM from Saturn)            |
 | Colombo-Lücke (77870 KM vom Saturn entfernt)    | Colombo Gap (77870 KM from Saturn)             |
@@ -318,17 +318,19 @@ color([1, 1, 1, 0.1]) {  // orbit of satellite
 ![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/D-Ring/090.png)
 ![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/D-Ring/091.png)
 
-### Cassini-Region
-* Cassini-Region (117580–122170 KM vom Saturn entfernt) / Cassini Region (117580–122170 KM from Saturn)
-* Huygens-Lücke (117680 KM vom Saturn entfernt) / Huygens Gap (117680 KM from Saturn)
-* Huygens-Ring (117848 KM vom Saturn entfernt) / Huygens Ringlet (117848 KM from Saturn)
-* Herschel-Lücke (118234 KM vom Saturn entfernt) / Herschel Gap (118234 KM from Saturn)
-* Russell-Lücke (118614 KM vom Saturn entfernt) / Russell Gap (118614 KM from Saturn)
-* Jeffreys-Lücke (118950 KM vom Saturn entfernt) / Jeffreys Gap (118950 KM from Saturn)
-* Kuiper-Lücke (119405 KM vom Saturn entfernt) / Kuiper Gap (119405 KM from Saturn)
-* Laplace-Lücke (119967 KM vom Saturn entfernt) / Laplace Gap (119967 KM from Saturn)
-* Bessel-Lücke (120241 KM vom Saturn entfernt) / Bessel Gap (120241 KM from Saturn)
-* Barnard-Lücke (120312 KM vom Saturn entfernt) / Barnard Gap (120312 KM from Saturn)
+### Cassini-Region  
+|                                                 |                                            |
+|-------------------------------------------------|--------------------------------------------|
+| Cassini-Region (117580–122170 KM vom Saturn entfernt) | Cassini Region (117580–122170 KM from Saturn) |
+| Huygens-Lücke (117680 KM vom Saturn entfernt) | Huygens Gap (117680 KM from Saturn) |
+| Huygens-Ring (117848 KM vom Saturn entfernt) | Huygens Ringlet (117848 KM from Saturn) |
+| Herschel-Lücke (118234 KM vom Saturn entfernt) | Herschel Gap (118234 KM from Saturn) |
+| Russell-Lücke (118614 KM vom Saturn entfernt) | Russell Gap (118614 KM from Saturn) |
+| Jeffreys-Lücke (118950 KM vom Saturn entfernt) | Jeffreys Gap (118950 KM from Saturn) |
+| Kuiper-Lücke (119405 KM vom Saturn entfernt) | Kuiper Gap (119405 KM from Saturn) |
+| Laplace-Lücke (119967 KM vom Saturn entfernt) | Laplace Gap (119967 KM from Saturn) |
+| Bessel-Lücke (120241 KM vom Saturn entfernt) | Bessel Gap (120241 KM from Saturn) |
+| Barnard-Lücke (120312 KM vom Saturn entfernt) | Barnard Gap (120312 KM from Saturn) |
 
 ![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Merged%20Screenshots/Cassini%20Region.jpg)
  
