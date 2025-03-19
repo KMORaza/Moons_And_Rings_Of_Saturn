@@ -296,12 +296,15 @@ color([1, 1, 1, 0.1]) {  // orbit of satellite
 ![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/C-Ring/087.png)
 
 #### Strukturen innerhalb des C-Rings (Entities within C-Ring)
-* C-Ring (74658–92000 KM vom Saturn entfernt) / C-Ring (74658–92000 KM from Saturn)
-* Colombo-Lücke (77870 KM vom Saturn entfernt) / Colombo Gap (77870 KM from Saturn)
-* Titan-Ring (77870 KM vom Saturn entfernt) / Titan Ringlet (77870 KM from Saturn)
-* Maxwell-Lücke (87491 KM vom Saturn entfernt) / Maxwell Gap (87491 KM from Saturn)
-* Bond-Lücke (88700 KM vom Saturn entfernt) / Bond Gap (88700 KM from Saturn)
-* Dawes-Lücke (90210 KM vom Saturn entfernt) / Dawes Gap (90210 KM from Saturn)
+
+| Struktur innerhalb des C-Rings                  | Entities within C-Ring                          |
+|-------------------------------------------------|------------------------------------------------|
+| C-Ring (74658–92000 KM vom Saturn entfernt)     | C-Ring (74658–92000 KM from Saturn)            |
+| Colombo-Lücke (77870 KM vom Saturn entfernt)    | Colombo Gap (77870 KM from Saturn)             |
+| Titan-Ring (77870 KM vom Saturn entfernt)       | Titan Ringlet (77870 KM from Saturn)           |
+| Maxwell-Lücke (87491 KM vom Saturn entfernt)    | Maxwell Gap (87491 KM from Saturn)             |
+| Bond-Lücke (88700 KM vom Saturn entfernt)       | Bond Gap (88700 KM from Saturn)                |
+| Dawes-Lücke (90210 KM vom Saturn entfernt)      | Dawes Gap (90210 KM from Saturn)               |
 
 ![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Merged%20Screenshots/C-Ring%20Structures.jpg)
   
