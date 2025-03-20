@@ -1,7 +1,7 @@
 ## Monde und Ringe des Saturn, modelliert oder simuliert mit OpenSCAD (Moons & Rings of Saturn modelled/simulated using OpenSCAD)
 
 
-• Überblick über das Modell oder die Simulation (An Overview of Model/Simulation) —
+• Überblick über das Modell oder die Simulation (Overview of Model/Simulation) —
 | | |
 |--------------------------------------|--------------------------------|
 |Saturn 🪐 (Radius = 58232 KM)         | Saturn 🪐 (Radius = 58232 KM)|
