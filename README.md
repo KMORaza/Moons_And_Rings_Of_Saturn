@@ -139,6 +139,20 @@ Depictions in the model:
  * E-ring (Very faint and diffuse, extremely transparent, large radius)
  * Moons: Janus, Epimetheus, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Iapetus
 
+| Darstellung im Modell | Depiction in the Model |
+|-----------------------|-----------------------|
+| Saturn (im Zentrum) | Saturn (at the center) |
+| D-Ring (am nächsten zu Saturn, geringer Winkel, hellgrau, halbtransparent) | D-Ring (Closest to Saturn, low angle, light gray, semi-transparent) |
+| C-Ring (stärker geneigt, sanftes Gelb, halbtransparent) | C-Ring (Tilted more, soft yellow, semi-transparent) |
+| B-Ring (stärker geneigt, goldbraun, mäßig transparent) | B-Ring (Tilted more, golden brown, moderately transparent) |
+| Cassini-Region (erzeugt eine Lücke zwischen A- und B-Ring) | Cassini region (Creates a gap between A and B rings) |
+| A-Ring (stärkere Neigung, dunkelbraungrau, größtenteils undurchsichtig) | A-Ring (Heavier tilt, dark brownish gray, mostly opaque) |
+| Encke-Region (schmale Lücke innerhalb des A-Rings) | Encke region (Narrow gap inside the A-ring) |
+| F-Ring (am nächsten zu den Saturnpolen, sehr helles Creme, sehr transparent) | F-Ring (Closest to Saturn's poles, very light cream, very transparent) |
+| G-Ring (am weitesten vom Planeten entfernt, blassbraun, mäßig transparent) | G-Ring (Farthest from the planet, pale brown, moderately transparent) |
+| E-Ring (sehr blass und diffus, extrem transparent, großer Radius) | E-Ring (Very faint and diffuse, extremely transparent, large radius) |
+| Monde: Janus, Epimetheus, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Iapetus | Moons: Janus, Epimetheus, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Iapetus |
+
 ![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Merged%20Screenshots/Moons%20%26%20Rings.png)
 
 ![](https://github.com/KMORaza/Moons_And_Rings_Of_Saturn/blob/main/Moons%20%26%20Rings%20of%20Saturn/Screenshots/Moons%20%26%20Rings.jpeg)
